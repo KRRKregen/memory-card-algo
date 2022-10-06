@@ -51,4 +51,5 @@ while game:
     
     #get_pressed
     clock.tick (fps)
+    #get_pressed222
 
